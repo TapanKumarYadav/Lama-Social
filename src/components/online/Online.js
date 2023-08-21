@@ -1,6 +1,6 @@
 import React from 'react';
 import "./online.css";
-import { Users } from '../../dummyData';
+
 
 function Online({user}) {
   return (
